@@ -1,0 +1,10 @@
+h1{
+    color :rgb(23, 217, 231);
+}
+.header{
+    color:rgb(39, 179, 137);
+    background-color :rgb(223, 181, 65);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
